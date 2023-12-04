@@ -13,7 +13,7 @@ To set up the Conda environment needed to run the MeetPersona project locally on
 
 1. Ensure that you have [Anaconda](https://www.anaconda.com/products/distribution) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) installed on your system.
 
-2. Clone the MeetPersona repository to your local machine: git clone https://github.com/miloszpaul/MeetPersona.git
+2. Clone the MeetPersona repository to your local machine: git clone https://github.com/maryamasadm/MeetPersona.git
 
 3. Create the Conda environment from the `environment.yml` file: conda env create -f environment.yml
 
