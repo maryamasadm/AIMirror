@@ -1,6 +1,6 @@
 # AI Mirror
 This app analyses your visual first impression for sample images that simulate a videocall situation. 
-![mirror.jpg](https://lens.monash.edu/@technology/2020/06/22/1380700/mirror-ritual-ais-role-in-reframing-viewers-emotions)
+![/mirror.jpg] **[Here](https://lens.monash.edu/@technology/2020/06/22/1380700/mirror-ritual-ais-role-in-reframing-viewers-emotions):**
 
 ## Online App 
 
