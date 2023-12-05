@@ -27,13 +27,20 @@ To set up the Conda environment needed to run the MeetPersona project locally on
 - **Maryam:**
   - Developed computer vision and AI model codes.
 
-- **Milosz:**
+- **[Milosz](https://github.com/miloszpaul):**
   - Deployment and research.
 
-- **Marzieh:**
+- **[Marzieh](https://www.linkedin.com/in/marzieh-goljahi-150b39265/):**
   - Developed AI code and research.
 
-- **Dr. Shive:**
+- **Dr. Shive:** **[Dr. Shivakumara](https://www.linkedin.com/in/palaiahnakote-shivakumara-8b23a215/):**
    - Provided guidance and valuable input on project ideas and dataset selection.
 
 Special thanks to everyone involved in making this project a success.
+
+**Libraries and Frameworks:**
+
+- [YOLOv8](https://docs.ultralytics.com/): Used for object detection.
+
+- [ResNet50 (Fastai)](https://github.com/fastai/fastai): Utilized ResNet50 architecture for regression.
+
