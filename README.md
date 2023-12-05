@@ -2,6 +2,9 @@
 This app analyses your visual first impression for sample images that simulate a videocall situation. 
 ![https://github.com/maryamasadm/AIMirror/mirror.jpg] **[Here](https://lens.monash.edu/@technology/2020/06/22/1380700/mirror-ritual-ais-role-in-reframing-viewers-emotions):**
 
+![Project Image](https://github.com/maryamasadm/AIMirror/mirror.jpg)
+*Caption: Look at AL Mirror ! *
+
 ## Online App 
 
 The app is available at https://huggingface.co/spaces/miloszpaul/aimirror
