@@ -1,6 +1,6 @@
 # AI Mirror
 This app analyses your visual first impression for sample images that simulate a videocall situation. 
-
+![mirror.jpg](https://lens.monash.edu/@technology/2020/06/22/1380700/mirror-ritual-ais-role-in-reframing-viewers-emotions)
 
 ## Online App 
 
@@ -24,7 +24,7 @@ To set up the Conda environment needed to run the MeetPersona project locally on
 
 **Acknowledgments:**
 
-- **Maryam:** **[Maryam](www.linkedin.com/in/maryamasadzadeh):**
+- **[Maryam](www.linkedin.com/in/maryamasadzadeh):**
   - Developed computer vision and AI model codes.
 - **[Milosz](https://github.com/miloszpaul):**
   - Deployment and research.
