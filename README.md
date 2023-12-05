@@ -1,9 +1,10 @@
-# MeetPersona
+# AI Mirror
 This app analyses your visual first impression for sample images that simulate a videocall situation. 
+
 
 ## Online App 
 
-The app is available at https://meetpersona.streamlit.app/
+The app is available at https://huggingface.co/spaces/miloszpaul/aimirror
 
 ## Local Installation
 
@@ -13,10 +14,26 @@ To set up the Conda environment needed to run the MeetPersona project locally on
 
 1. Ensure that you have [Anaconda](https://www.anaconda.com/products/distribution) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) installed on your system.
 
-2. Clone the MeetPersona repository to your local machine: git clone https://github.com/maryamasadm/MeetPersona.git
+2. Clone the MeetPersona repository to your local machine: git clone https://github.com/maryamasadm/AiMirror.git
 
 3. Create the Conda environment from the `environment.yml` file: conda env create -f environment.yml
 
 3. Activate the newly created environment: conda activate unified_env
 
 4. To start the Streamlit application, run: streamlit run app.py
+
+**Acknowledgments:**
+
+- **Maryam:**
+  - Developed computer vision and AI model codes.
+
+- **Milosz:**
+  - Deployment and research.
+
+- **Marzieh:**
+  - Developed AI code and research.
+
+- **Dr. Shive:**
+   - Provided guidance and valuable input on project ideas and dataset selection.
+
+Special thanks to everyone involved in making this project a success.
