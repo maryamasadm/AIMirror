@@ -1,28 +1,32 @@
 # AI Mirror
-This app analyses your visual first impression for sample images that simulate a videocall situation. 
 
-![mirror picture](https://github.com/maryamasadm/AIMirror/main/0029.jpg)
-*Caption: Look at AL Mirror ! *
+This application analyzes your visual first impression for sample images that simulate a video call situation.
+
+![Mirror Picture](https://github.com/maryamasadm/AIMirror/mirror.jpg)
+*Caption: Reflect on AI Mirror!*
 
 ## Online App 
 
-The app is available at https://huggingface.co/spaces/miloszpaul/aimirror
+Explore the application online at [Hugging Face Spaces](https://huggingface.co/spaces/miloszpaul/aimirror).
 
 ## Local Installation
 
-### Setting up the Conda environment
+### Setting up the Conda Environment
 
-To set up the Conda environment needed to run the MeetPersona project locally on your machine, follow these steps:
+To set up the Conda environment required for running the code locally on your machine, follow these steps:
 
-1. Ensure that you have [Anaconda](https://www.anaconda.com/products/distribution) or [Miniconda](https://docs.conda.io/en/latest/miniconda.html) installed on your system.
+1. Ensure that you have [Anaconda](https://www.anaconda.com/products/distribution) installed.
 
-2. Clone the MeetPersona repository to your local machine: git clone https://github.com/maryamasadm/AiMirror.git
+2. Clone the repository to your local machine:
 
-3. Create the Conda environment from the `environment.yml` file: conda env create -f environment.yml
-
-3. Activate the newly created environment: conda activate unified_env
-
-4. To start the Streamlit application, run: streamlit run app.py
+   ```bash
+```bash
+    git clone https://github.com/maryamasadm/AiMirror.git
+    cd AiMirror
+    conda create --name aimirror
+    conda activate aimirror
+    pip install -r requirements.txt
+    python main.py path/to/your/image
 
 **Acknowledgments:**
 
