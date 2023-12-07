@@ -15,11 +15,6 @@ Explore the application online at [Hugging Face Spaces](https://huggingface.co/s
 
 To set up the Conda environment required for running the code locally on your machine, follow these steps:
 
-1. Ensure that you have [Anaconda](https://www.anaconda.com/products/distribution) installed.
-
-2. Clone the repository to your local machine:
-
-   ```bash
 ```bash
     git clone https://github.com/maryamasadm/AiMirror.git
     cd AiMirror
@@ -28,6 +23,7 @@ To set up the Conda environment required for running the code locally on your ma
     pip install -r requirements.txt
     python main.py path/to/your/image
 
+```
 **Acknowledgments:**
 
 - [Maryam](www.linkedin.com/in/maryamasadzadeh): Developed computer vision and AI model codes.
