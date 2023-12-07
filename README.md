@@ -2,11 +2,10 @@
 
 This application analyzes your visual first impression for sample images that simulate a video call situation.
 
-
-<a href="https://lens.monash.edu/@technology/2020/06/22/1380700/mirror-ritual-ais-role-in-reframing-viewers-emotions">
+<a href="https://lens.monash.edu/@technology/2020/06/22/1380700/mirror-ritual-ais-role-in-reframing-viewers-emotions" style="text-decoration:none">
   <img src="/mirror.jpg" alt="Mirror Picture" width="50%">
+  <div style="text-align:center;font-style:italic;font-size:80%">Ref</div>
 </a>
-*Reference: [Mirror Ritual: AI's role in reframing viewers' emotions](https://lens.monash.edu/@technology/2020/06/22/1380700/mirror-ritual-ais-role-in-reframing-viewers-emotions)*
 
 
 ## Online App 
