@@ -2,7 +2,7 @@
 
 This application analyzes your visual first impression for sample images that simulate a video call situation.
 
-![Mirror Picture](https://github.com/maryamasadm/AIMirror/mirror.jpg)
+![Mirror Picture]('/mirror.jpg')
 *Caption: Reflect on AI Mirror!*
 
 ## Online App 
