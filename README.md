@@ -2,8 +2,12 @@
 
 This application analyzes your visual first impression for sample images that simulate a video call situation.
 
-![Mirror Picture](/mirror.jpg)
-*Caption: Reflect on AI Mirror!*
+
+<a href="https://lens.monash.edu/@technology/2020/06/22/1380700/mirror-ritual-ais-role-in-reframing-viewers-emotions">
+  <img src="/mirror.jpg" alt="Mirror Picture" width="50%">
+</a>
+*Reference: [Mirror Ritual: AI's role in reframing viewers' emotions](https://lens.monash.edu/@technology/2020/06/22/1380700/mirror-ritual-ais-role-in-reframing-viewers-emotions)*
+
 
 ## Online App 
 
